@@ -1,6 +1,3 @@
-# Certainly! Here's a sample README file for your LeetCode solutions repository:
-
----
 
 # LeetCode Solutions Repository
 
